@@ -3,7 +3,7 @@ require_once dirname(__FILE__) . '/midtrans/Midtrans.php';
 header("Content-Type: application/json");
 
 // Konfigurasi Midtrans
-\Midtrans\Config::$serverKey = 'SB-Mid-server-T5qB8YD7xCQVodtqZkWwCtgS';
+\Midtrans\Config::$serverKey = 'Isi punya lu';
 \Midtrans\Config::$isProduction = false;
 \Midtrans\Config::$isSanitized = true;
 \Midtrans\Config::$is3ds = true;
