@@ -2,7 +2,7 @@
 date_default_timezone_set('Asia/Makassar');
 require_once dirname(__FILE__) . '\midtrans\Midtrans.php';
 
-\Midtrans\Config::$serverKey = 'SB-Mid-server-T5qB8YD7xCQVodtqZkWwCtgS';
+\Midtrans\Config::$serverKey = 'isi punya lu';
 \Midtrans\Config::$isProduction = false;
 \Midtrans\Config::$isSanitized = true;
 \Midtrans\Config::$is3ds = true;
